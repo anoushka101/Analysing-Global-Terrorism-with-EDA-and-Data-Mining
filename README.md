@@ -50,11 +50,9 @@ To understand the **evolution of terrorism** over time by answering:
 Here are selected visuals from our report:
 
 ### EDA Heatmap & Country-wise Trends
-![Page 1](./terror_report_page_1.png)
+![image](https://github.com/user-attachments/assets/a4351f4b-1577-4e03-b4b9-6b1f52c59b4a)
 
 ### Clustering & Attack Intensity Over Time
-![Page 2](./terror_report_page_2.png)
+![image](https://github.com/user-attachments/assets/73c1b30a-209a-4b41-b6f5-b0aead7553a7)
 
-### Association Rules & Weapon-Target Patterns
-![Page 3](./terror_report_page_3.png)
 
